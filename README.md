@@ -10,7 +10,7 @@
 This NodeJs application would function as the back-end to an e-commerce site with products, categories, and tags.
 
 Here is a walkthrough on how this works:
-https://streamable.com/apn001
+https://streamable.com/hhtkne
 
 ### Technologies
 - Express Node.Js Based
